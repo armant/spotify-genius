@@ -1,4 +1,4 @@
-Spotify - Lyrics from Genius
+<a href="https://chrome.google.com/webstore/detail/spotify-lyrics-from-geniu/kmplfmedkkcjeidnhfedooacgmdihgmh" target="_blank">Spotify - Lyrics from Genius</a>
 ============================
 
 Get lyrics to the currently played Spotify song from Genius with one click.
